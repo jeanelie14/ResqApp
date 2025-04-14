@@ -48,3 +48,25 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# Safety App 👶🛡️
+
+**Application de sécurité en temps réel** pour la protection des enfants et adolescents contre les disparitions.  
+Développée avec **Expo + TypeScript**, intégration de **Firebase**, **géolocalisation**, **bouton SOS**, et plus.
+
+---
+
+## 🚀 Technologies utilisées
+
+- [Expo](https://expo.dev/) + React Native
+- [TypeScript](https://www.typescriptlang.org/)
+- [Expo Router](https://expo.github.io/router/)
+- [Firebase](https://firebase.google.com/) (Auth, Firestore, Notifications)
+- Expo Modules : Location, Notifications, Secure Store, Background Tasks
+- Redux Toolkit + Context API
+- Tests : Jest, React Testing Library
+
+---
+
+## 📁 Structure du projet (extrait)
+
